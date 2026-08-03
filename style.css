@@ -63,13 +63,13 @@ header .container{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding:20px 0;
+    padding:8px 0;
 
 }
 
 .logo img{
 
-    height:70px;
+    height:130px;
 
 }
 
