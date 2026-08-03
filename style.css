@@ -410,6 +410,11 @@ LEISTUNGEN
 
 }
 
+.card-link svg{
+
+    display:none;
+
+}
 /* ==============================
 BADGES / VORTEILE
 ================================= */
