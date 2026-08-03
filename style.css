@@ -392,7 +392,7 @@ LEISTUNGEN
 
 .card-link{
 
-    display:inline-flex;
+    display:none;
     align-items:center;
     gap:8px;
     color:var(--gold);
@@ -407,12 +407,6 @@ LEISTUNGEN
 .card-link:hover{
 
     color:white;
-
-}
-
-.card-link svg{
-
-    display:none;
 
 }
 /* ==============================
