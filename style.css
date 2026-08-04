@@ -63,13 +63,13 @@ header .container{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding:2px 0;
+    padding:1px 0;
 
 }
 
 .logo img{
 
-    height:270px;
+    height:320px;
 
 }
 
@@ -77,7 +77,7 @@ nav{
 
     display:flex;
     align-items:center;
-    gap:35px;
+    gap:30px;
 
 }
 
