@@ -632,7 +632,7 @@ FOOTER
 
 footer{
 
-    background:#001e23;
+    background:var(--green);
     color:white;
     margin-top:80px;
 
